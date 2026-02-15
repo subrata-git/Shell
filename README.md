@@ -1,3 +1,3 @@
 # Shell
 Schell Scripts
-# Devops Project
+# Devops Project and Practice
