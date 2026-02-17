@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "test code"
+echo "test code2"
